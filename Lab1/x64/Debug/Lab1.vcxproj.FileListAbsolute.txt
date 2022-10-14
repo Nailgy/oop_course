@@ -1,0 +1,2 @@
+E:\OOP_KPI_2course\Lab1\x64\Debug\Lab1.exe
+E:\KPI\OOP\Lab1\x64\Debug\Lab1.exe

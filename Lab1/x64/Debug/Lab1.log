@@ -1,0 +1,8 @@
+﻿  Lab1.cpp
+E:\KPI\OOP\Lab1\Lab1.cpp(164,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  module1.cpp
+E:\KPI\OOP\Lab1\module1.cpp(36,12): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+  module2.cpp
+E:\KPI\OOP\Lab1\module2.cpp(56,12): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+  Generating Code...
+  Lab1.vcxproj -> E:\KPI\OOP\Lab1\x64\Debug\Lab1.exe

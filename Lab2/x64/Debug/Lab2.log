@@ -1,0 +1,14 @@
+﻿  ShapeEditor.cpp
+  ellipse_editor.cpp
+  ellipse_shape.cpp
+  Lab2.cpp
+  line_editor.cpp
+  line_shape.cpp
+  point_editor.cpp
+  point_shape.cpp
+  rect_editor.cpp
+  rect_shape.cpp
+  shape.cpp
+  shape_editor.cpp
+  Generating Code...
+  Lab2.vcxproj -> E:\KPI\OOP\Lab2\x64\Debug\Lab2.exe
